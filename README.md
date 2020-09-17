@@ -1,0 +1,2 @@
+# PerceptronNeuron
+Perceptron is the first artificial neuron, a simplified brain-cell, also called McCullock-Pitts(MCP) neuron. It is the simple logic gate array with binary outputs. With this perceptron rule, Rosenblatt proposed an algorithm that would automatically learn the optimal weight coefficients that are then multiplied with the input features in order to make the decision of whether a neuron fires or not. In the context of supervised learning and classification, such an algorithm could then be used to predict if a sample belongs to one class or the other.
